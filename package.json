@@ -1,0 +1,9 @@
+{
+  "name": "encuentra-la-etiqueta-oculta",
+  "private": true,
+  "scripts": {
+    "build": "dotnet build",
+    "start": "dotnet run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
