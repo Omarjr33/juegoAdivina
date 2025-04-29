@@ -1,0 +1,14 @@
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/bin/Debug/net6.0/HiddenTagGame
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/bin/Debug/net6.0/HiddenTagGame.deps.json
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/bin/Debug/net6.0/HiddenTagGame.runtimeconfig.json
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/bin/Debug/net6.0/HiddenTagGame.dll
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/bin/Debug/net6.0/HiddenTagGame.pdb
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/obj/Debug/net6.0/HiddenTagGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/obj/Debug/net6.0/HiddenTagGame.AssemblyInfoInputs.cache
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/obj/Debug/net6.0/HiddenTagGame.AssemblyInfo.cs
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/obj/Debug/net6.0/HiddenTagGame.csproj.CoreCompileInputs.cache
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/obj/Debug/net6.0/HiddenTagGame.dll
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/obj/Debug/net6.0/refint/HiddenTagGame.dll
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/obj/Debug/net6.0/HiddenTagGame.pdb
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/obj/Debug/net6.0/HiddenTagGame.genruntimeconfig.cache
+/home/camper/Descargas/project-bolt-sb1-2zp8zcdx/project/obj/Debug/net6.0/ref/HiddenTagGame.dll
